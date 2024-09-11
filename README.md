@@ -4,15 +4,12 @@ Este proyecto es una aplicación web que permite consultar el clima de diferente
 
 Puedes ver el demo en vivo aquí: [App Weather - Demo](https://bereverte.github.io/app-weather/)
 
-## Descripción
-
-**App Weather** es una aplicación que permite a los usuarios buscar el clima actual de cualquier ciudad del mundo. Muestra información como la temperatura, humedad, velocidad del viento y las condiciones climáticas actuales.
-
 ## Características
 
 - Búsqueda del clima por nombre de ciudad.
-- Muestra la temperatura actual, condiciones del clima (soleado, nublado, lluvia, etc.), humedad y velocidad del viento.
+- Muestra la temperatura actual y condiciones del clima (soleado, nublado, lluvia, etc.).
 - Interfaz amigable y moderna utilizando React.
+- Incluye **dos pruebas unitarias** para garantizar que ciertas funcionalidades se comporten de forma esperada.
 
 ## Tecnologías utilizadas
 
